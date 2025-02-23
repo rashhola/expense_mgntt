@@ -41,7 +41,7 @@ Datetime for timestamp management
 
 Clone the repository:
 
-git clone https://github.com/your-repo/expense-management.git
+git clone https://github.com/rashhola/expense_mgntt
 
 Navigate to the project directory:
 
